@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source source="LOCAL" name="Rails simple_form-bootstrap-master: development" uuid="9b98789f-0471-4b40-bbc0-9a3307551208">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails simple_form-bootstrap-master: test" uuid="9eeb78a2-6374-46f7-ac48-105158a2cfa8">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+</component>

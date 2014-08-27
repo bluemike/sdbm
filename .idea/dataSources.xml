@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="622157877">
+    <data-source source="LOCAL" name="Rails simple_form-bootstrap-master: development" uuid="9b98789f-0471-4b40-bbc0-9a3307551208">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:simple_form</jdbc-url>
+      <user-name>postgres</user-name>
+      <user-password>dfcddfdfdfd8dfdfdfd9</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails simple_form-bootstrap-master: test" uuid="9eeb78a2-6374-46f7-ac48-105158a2cfa8">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:simple_form</jdbc-url>
+      <user-name>postgres</user-name>
+      <user-password>dfcddfdfdfd8dfdfdfd9</user-password>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
